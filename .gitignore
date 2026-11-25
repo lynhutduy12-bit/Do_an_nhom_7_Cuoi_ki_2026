@@ -1,0 +1,4 @@
+﻿bin/
+target/
+data/diabetes.db
+*.class
